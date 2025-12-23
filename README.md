@@ -1,5 +1,4 @@
 # SCT_DS_2
-# SCT_DS_2
 
 # 🚢 Titanic Survival Prediction — EDA & Machine Learning
 
